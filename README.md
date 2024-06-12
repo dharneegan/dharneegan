@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! 👋, I'm Dharneesh
 
-<!--
-**dharneegan/dharneegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Cybersecurity and CTF Competitor
 
-Here are some ideas to get you started:
+- 🌐 My website: [https://dharneesh.vercel.app](https://dharneesh.vercel.app)
+- ⚡ My Hobbies/Interests: Cybersecurity, CTF's, Hacking
+- 📫 How to reach me [indharneesh@gmail.com](mailto:indharneesh@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/dharneegan.png" alt="TryHackMe">
+
+
+### GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharneegan&show_icons=true&hide_border=true)
+
+
