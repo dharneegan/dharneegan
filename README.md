@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ctf writeups](https://github.com/dharneegan/ctf)
 
-- 🌐 My Website [dharneesh.vercel.app](https://dharneesh.vercel.app)
+- 🌐 My Website [dharneesh.xyz](https://dharneesh.xyz)
 
 - 📫 How to reach me **indharneesh@gmail.com**
 
