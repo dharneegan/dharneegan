@@ -9,7 +9,7 @@
 
 - 🌐 My Website [dharneesh.xyz](https://dharneesh.xyz)
 
-- 📫 How to reach me **indharneesh@gmail.com**
+- 📫 How to reach me **contact@dharneesh.xyz**
 
 - 📄 Know about my experiences [My resume](https://dharneesh.xyz/RESUME.pdf)
 
