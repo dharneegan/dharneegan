@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **indharneesh@gmail.com**
 
-- 📄 Know about my experiences [https://dharneesh.vercel.app/RESUME.pdf](https://dharneesh.vercel.app/RESUME.pdf)
+- 📄 Know about my experiences [My resume](https://dharneesh.xyz/RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
